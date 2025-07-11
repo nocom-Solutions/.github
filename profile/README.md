@@ -91,5 +91,7 @@ If you’re contributing:
 
 ---
 
-> _Built with passion, coffee, and probably way too much time spent debugging._  
-> — Team Nocom
+> _Built with passion, Red Bull®, and probably way too much time spent debugging._  
+> — Team Nocom </br>
+
+<sub>Red Bull® is a registered trademark of Red Bull GmbH. All rights belong to their respective owners.</sub>
