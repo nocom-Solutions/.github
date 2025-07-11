@@ -10,7 +10,7 @@ Welcome to the official GitHub organization for **Nocom Solutions** — a Hostin
 
 ## 🌐 About Us
 
-**Nocom Solutions** is focused on delivering stable, self-hosted, and scalable solutions for web services, Discord bots, status systems, monitoring stacks, anti-cheat systems for Roblox, and more.
+**Nocom Solutions** is focused on delivering stable, self-hosted, and scalable solutions for web services, Discord bots, status systems, monitoring stacks, and more.
 
 We manage everything from infrastructure to app-layer logic, ensuring every service we run is fast, monitored, and reliable.
 
@@ -21,7 +21,7 @@ We manage everything from infrastructure to app-layer logic, ensuring every serv
 
 ## 🚀 Key Projects
 
-Here’s a taste of what you’ll find across our repos:
+Here’s a taste of what we've made across our repos:
 
 - **nocom_Utilities_Bot**  
   A full-featured Discord bot written in C# (.NET 8) using Discord.Net. Includes moderation tools, status APIs, welcome systems, and more.
