@@ -4,6 +4,8 @@
 </p>
 <h1>nocom Solutions</h1></br>
 
+<h2>THIS DOCUMENT IS OUT OF DATE ⚠️</h2>
+
 Welcome to the official GitHub organization for **Nocom Solutions** — a Hosting Service Provider (HSP) that builds reliable infrastructure, powerful bots, custom APIs, and automation tools for modern developers, communities, and power users.
 
 ---
